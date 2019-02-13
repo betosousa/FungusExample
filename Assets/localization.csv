@@ -1,0 +1,13 @@
+Key,Description,Standard,BR
+SAY.Flowchart.1.Poliglota,,Say something,Diga algo
+MENU.Flowchart.2,,Left,Esquerda
+MENU.Flowchart.24,,Right,Direita
+SAY.Flowchart.7.Poliglota,,Gone right,Foi pra direita
+SAY.Flowchart.6.Poliglota,,Gone left\n,Foi pra esquerda
+SAY.Flowchart.9.Poliglota,,Reach Something in common\n,Chegou num ponto comum
+SAY.Flowchart.23.,,Portugues do Brasil hu3,
+MENU.Flowchart.15,,English,
+MENU.Flowchart.16,,Brasil,
+SAY.Flowchart.22.,,English,
+CHARACTER.Poliglota,,Poliglota,
+CHARACTER.Character Name,,Character Name,
